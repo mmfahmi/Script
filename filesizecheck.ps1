@@ -68,3 +68,4 @@ if (Test-Path $totalSizeCsvFilePath) {
 }
 
 Write-Host "Total size data appended to: $totalSizeCsvFilePath"
+
